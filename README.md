@@ -53,9 +53,9 @@ frontend/    Flutter app (Android, Windows, web)
 
 ## Screenshots
 
-| Patients | Detail | Risk prediction |
+| Patients | Detail | Risk |
 | --- | --- | --- |
-| ![Patients](docs/Menu.png) | ![Detail](docs/overview.png) | ![Risk prediction](docs/Health risk.png) |
+| ![Patients](docs/Menu.png) | ![Detail](docs/overview.png) | ![Risk](docs/Health risk.png) |
 
 ## Getting Started
 
