@@ -20,3 +20,4 @@ __pycache__/
 frontend/windows/flutter/ephemeral/
 frontend/analysis_out.txt
 frontend/windows_build_log.txt
+testenv/

@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-jwt-extended
+flask-bcrypt
+reportlab
+psycopg2-binary
+numpy<2
+pandas
+scikit-learn==1.3.2
+tensorflow==2.17.0
+lime
