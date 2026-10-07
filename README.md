@@ -55,7 +55,7 @@ frontend/    Flutter app (Android, Windows, web)
 
 | Patients | Detail | Risk |
 | --- | --- | --- |
-| ![Patients](docs/Menu.png) | ![Detail](docs/overview.png) | ![Risk](docs/Health risk.png) |
+| ![Patients](docs/Menu.png) | ![Detail](docs/overview.png) | ![Risk](docs/risk.png) |
 
 ## Getting Started
 
