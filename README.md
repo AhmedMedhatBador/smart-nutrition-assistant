@@ -2,10 +2,8 @@
 
 A cross-platform clinical decision support app for nutritionists. It helps manage patient records, predict obesity-related health risk with machine learning, and generate personalized nutrition recommendations.
 
-Graduation project (TM471), B.Sc. Information Technology and Computing, Arab Open University – Egypt.
+Graduation project, B.Sc. Information Technology and Computing, Arab Open University – Egypt.
 
-<!-- Add screenshots here once they are in docs/, e.g.
-![Home screen](docs/home.png) -->
 
 ## Features
 
@@ -28,7 +26,6 @@ Graduation project (TM471), B.Sc. Information Technology and Computing, Arab Ope
 | Database | PostgreSQL |
 | Machine learning | scikit-learn, TensorFlow / Keras, LIME |
 | Reports | ReportLab (PDF), CSV |
-| Deployment | Backend deployed on Railway, Android APK, Windows package |
 
 ## Architecture
 
